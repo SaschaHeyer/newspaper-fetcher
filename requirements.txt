@@ -1,0 +1,4 @@
+requests
+pymupdf
+google-cloud-storage
+flask
